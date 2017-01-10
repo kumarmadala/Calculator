@@ -1,5 +1,9 @@
 Calculator library::
 
+com/calculator/Calculator class contains all the functionalities of Calculator library.
+com/test/TestCalculator class is to test the Calculator library.
+
+
 Input: reading input from the command line using Scanner class.
 
 step 1) sepearate operands from the operators
