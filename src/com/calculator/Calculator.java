@@ -73,6 +73,7 @@ public class Calculator {
 		return exp.get(0);//returning the final result
 	}
 
+	//checking the expression for valid syntax
 	public boolean checkSyntax(List<String> tokens) {
 		try{
 		for (int i = 0; i < tokens.size(); i++) {
